@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scrollytelling-dgpc/static/css/main.4c315fc1.css",
-    "main.js": "/scrollytelling-dgpc/static/js/main.c1892b89.js",
+    "main.js": "/scrollytelling-dgpc/static/js/main.e63fb55a.js",
     "static/js/453.7d88c0c0.chunk.js": "/scrollytelling-dgpc/static/js/453.7d88c0c0.chunk.js",
     "index.html": "/scrollytelling-dgpc/index.html",
     "main.4c315fc1.css.map": "/scrollytelling-dgpc/static/css/main.4c315fc1.css.map",
-    "main.c1892b89.js.map": "/scrollytelling-dgpc/static/js/main.c1892b89.js.map",
+    "main.e63fb55a.js.map": "/scrollytelling-dgpc/static/js/main.e63fb55a.js.map",
     "453.7d88c0c0.chunk.js.map": "/scrollytelling-dgpc/static/js/453.7d88c0c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c315fc1.css",
-    "static/js/main.c1892b89.js"
+    "static/js/main.e63fb55a.js"
   ]
 }
